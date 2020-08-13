@@ -35,7 +35,6 @@ int main(int argc, char** argv) {
 	//	printf ("\nfirst%d",(n*y)-d);
 	//	printf ("\nsecond%d",n*(n-1));
 	//	printf("\n y=%d",y);
-	//	printf("\n d=%d",d);
 	//	printf("\n s=%.2f",s);
 	//	printf("\n n=%d",n);
 	return 0;
